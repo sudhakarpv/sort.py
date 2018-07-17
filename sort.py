@@ -1,4 +1,3 @@
-# sort.py
 n=int(input())
 l=[]
 for i in range (n):
